@@ -1,7 +1,6 @@
 from customtkinter import *
 from portscanner import *
 from tkintermapview import TkinterMapView
-from tkinter import *
 
 set_appearance_mode("dark")  # Modes: system (default), light, dark
 set_default_color_theme("blue")  # Themes: blue (default), dark-blue, green
